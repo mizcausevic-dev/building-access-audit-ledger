@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="860" viewBox="0 0 1400 860">
+    <rect width="1400" height="860" fill="#070a0f"/>
+    <rect x="24" y="24" width="1352" height="812" rx="30" fill="#0a1426" stroke="rgba(120,255,170,.18)"/>
+    <rect x="58" y="58" width="1284" height="152" rx="26" fill="#0b1220" stroke="rgba(120,255,170,.12)"/>
+    <text x="94" y="96" fill="#37ff8b" font-size="13" font-weight="700" font-family="Consolas, monospace">
+<tspan x="94" dy="0">BUILDING ACCESS AUDIT LEDGER</tspan>
+</text>
+    <text x="94" y="146" fill="#f5f7ff" font-size="34" font-weight="700" font-family="Georgia, serif">
+<tspan x="94" dy="0">Control-plane summary for badge</tspan>
+<tspan x="94" dy="42">approvals, controller drift, and</tspan>
+<tspan x="94" dy="42">audit-safe access posture.</tspan>
+</text>
+    <text x="94" y="194" fill="#b8c6db" font-size="18" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="94" dy="0">Badge approvals, vendor windows, revoked credentials, and audit continuity stay visible together</tspan>
+<tspan x="94" dy="22">before a property team trusts the next access decision.</tspan>
+</text>
+    
+    
+    <rect x="58" y="238" width="288" height="150" rx="20" fill="#111827" stroke="rgba(120,255,170,.14)" />
+    <text x="82" y="272" fill="#8fdcff" font-size="11" font-weight="700" font-family="Consolas, monospace">
+<tspan x="82" dy="0">ACCESS SNAPSHOTS</tspan>
+</text>
+    <text x="82" y="324" fill="#19c7ff" font-size="34" font-weight="700" font-family="Segoe UI, Arial">
+<tspan x="82" dy="0">2</tspan>
+</text>
+    <text x="82" y="362" fill="#b8c6db" font-size="15" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="82" dy="0">Synthetic building access</tspan>
+<tspan x="82" dy="18">bundles across active</tspan>
+<tspan x="82" dy="18">property lanes.</tspan>
+</text>
+    
+    
+    <rect x="364" y="238" width="288" height="150" rx="20" fill="#111827" stroke="rgba(120,255,170,.14)" />
+    <text x="388" y="272" fill="#8fdcff" font-size="11" font-weight="700" font-family="Consolas, monospace">
+<tspan x="388" dy="0">ACTIVE GAPS</tspan>
+</text>
+    <text x="388" y="324" fill="#ffcc66" font-size="34" font-weight="700" font-family="Segoe UI, Arial">
+<tspan x="388" dy="0">6</tspan>
+</text>
+    <text x="388" y="362" fill="#b8c6db" font-size="15" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="388" dy="0">Approval, controller,</tspan>
+<tspan x="388" dy="18">vendor, revocation, audit,</tspan>
+<tspan x="388" dy="18">and credential gaps still</tspan>
+<tspan x="388" dy="18">open.</tspan>
+</text>
+    
+    
+    <rect x="670" y="238" width="288" height="150" rx="20" fill="#111827" stroke="rgba(120,255,170,.14)" />
+    <text x="694" y="272" fill="#8fdcff" font-size="11" font-weight="700" font-family="Consolas, monospace">
+<tspan x="694" dy="0">BLOCKING GAPS</tspan>
+</text>
+    <text x="694" y="324" fill="#ff5c7a" font-size="34" font-weight="700" font-family="Segoe UI, Arial">
+<tspan x="694" dy="0">4</tspan>
+</text>
+    <text x="694" y="362" fill="#b8c6db" font-size="15" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="694" dy="0">Access-blocking issues still</tspan>
+<tspan x="694" dy="18">need closure before trust</tspan>
+<tspan x="694" dy="18">recovers.</tspan>
+</text>
+    
+    
+    <rect x="976" y="238" width="366" height="150" rx="20" fill="#111827" stroke="rgba(120,255,170,.14)" />
+    <text x="1000" y="272" fill="#8fdcff" font-size="11" font-weight="700" font-family="Consolas, monospace">
+<tspan x="1000" dy="0">LEAD RECOMMENDATION</tspan>
+</text>
+    <text x="1000" y="324" fill="#37ff8b" font-size="34" font-weight="700" font-family="Segoe UI, Arial">
+<tspan x="1000" dy="0">Repair controller and revocation gaps</tspan>
+</text>
+    <text x="1000" y="362" fill="#b8c6db" font-size="15" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="1000" dy="0">Do not trust the affected</tspan>
+<tspan x="1000" dy="18">access lane until drift and</tspan>
+<tspan x="1000" dy="18">revocation posture recover.</tspan>
+</text>
+    
+
+    
+    <rect x="58" y="420" width="614" height="356" rx="22" fill="#0b1220" stroke="rgba(120,255,170,.18)" />
+    <text x="84" y="454" fill="#19c7ff" font-size="11" font-weight="700" font-family="Consolas, monospace">
+<tspan x="84" dy="0">EVENT LOG</tspan>
+</text>
+    <text x="84" y="504" fill="#f5f7ff" font-size="28" font-weight="700" font-family="Georgia, serif">
+<tspan x="84" dy="0">The riskiest control gaps stay</tspan>
+<tspan x="84" dy="35">visible first.</tspan>
+</text>
+    <text x="84" y="556" fill="#b8c6db" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="84" dy="0">Missing badge approvals, controller drift, stale</tspan>
+<tspan x="84" dy="20">vendor windows, and audit-export breaks stay tied</tspan>
+<tspan x="84" dy="20">to their owners so the queue stays readable before</tspan>
+<tspan x="84" dy="20">closure.</tspan>
+</text>
+    
+    <rect x="708" y="420" width="634" height="356" rx="22" fill="#0b1220" stroke="rgba(120,255,170,.18)" />
+    <text x="734" y="454" fill="#37ff8b" font-size="11" font-weight="700" font-family="Consolas, monospace">
+<tspan x="734" dy="0">CONTROL POSTURE</tspan>
+</text>
+    <text x="734" y="506" fill="#f5f7ff" font-size="28" font-weight="700" font-family="Georgia, serif">
+<tspan x="734" dy="0">What must close before</tspan>
+<tspan x="734" dy="35">the next access review</tspan>
+</text>
+    <circle cx="744" cy="574" r="5" fill="#37ff8b" />
+<text x="760" y="580" fill="#e9f3ff" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="760" dy="0">One tenant badge packet is still missing final manager approval and an</tspan>
+<tspan x="760" dy="20">effective date.</tspan>
+</text>
+<circle cx="744" cy="628" r="5" fill="#37ff8b" />
+<text x="760" y="634" fill="#e9f3ff" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="760" dy="0">A production lobby controller is running outside the approved baseline</tspan>
+<tspan x="760" dy="20">and has no rollback note.</tspan>
+</text>
+<circle cx="744" cy="682" r="5" fill="#37ff8b" />
+<text x="760" y="688" fill="#e9f3ff" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="760" dy="0">A revoked contractor badge still appears active on one secondary</tspan>
+<tspan x="760" dy="20">controller and weakens trust.</tspan>
+</text>
+    
+    </svg>

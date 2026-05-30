@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="860" viewBox="0 0 1400 860">
+    <rect width="1400" height="860" fill="#070a0f"/>
+    <rect x="24" y="24" width="1352" height="812" rx="30" fill="#0a1426" stroke="rgba(120,255,170,.18)"/>
+    <rect x="58" y="58" width="1284" height="152" rx="26" fill="#0b1220" stroke="rgba(120,255,170,.12)"/>
+    <text x="94" y="96" fill="#37ff8b" font-size="13" font-weight="700" font-family="Consolas, monospace">
+<tspan x="94" dy="0">ACCESS LANE</tspan>
+</text>
+    <text x="94" y="146" fill="#f5f7ff" font-size="34" font-weight="700" font-family="Georgia, serif">
+<tspan x="94" dy="0">Each lane keeps owner, control</tspan>
+<tspan x="94" dy="42">family, and next action visible.</tspan>
+</text>
+    <text x="94" y="194" fill="#b8c6db" font-size="18" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="94" dy="0">Move-in approvals, controller governance, vendor windows, and revocation review stay separated</tspan>
+<tspan x="94" dy="22">cleanly so routing does not collapse into one noisy queue.</tspan>
+</text>
+    
+    
+    <rect x="58" y="238" width="620" height="250" rx="22" fill="#0b1220" stroke="rgba(120,255,170,.18)" />
+    <text x="84" y="272" fill="#19c7ff" font-size="11" font-weight="700" font-family="Consolas, monospace">
+<tspan x="84" dy="0">MOVE-IN LANE</tspan>
+</text>
+    <text x="84" y="322" fill="#f5f7ff" font-size="28" font-weight="700" font-family="Georgia, serif">
+<tspan x="84" dy="0">Tenant badge approvals and</tspan>
+<tspan x="84" dy="35">effective dates</tspan>
+</text>
+    <text x="84" y="374" fill="#b8c6db" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="84" dy="0">Badge requests, suite mappings, and owner approval</tspan>
+<tspan x="84" dy="20">continuity stay grouped under Property Access</tspan>
+<tspan x="84" dy="20">Operations.</tspan>
+</text>
+    
+    
+    <rect x="708" y="238" width="634" height="250" rx="22" fill="#0b1220" stroke="rgba(120,255,170,.18)" />
+    <text x="734" y="272" fill="#ffcc66" font-size="11" font-weight="700" font-family="Consolas, monospace">
+<tspan x="734" dy="0">CONTROLLER LANE</tspan>
+</text>
+    <text x="734" y="322" fill="#f5f7ff" font-size="28" font-weight="700" font-family="Georgia, serif">
+<tspan x="734" dy="0">Drift review and rollback</tspan>
+<tspan x="734" dy="35">discipline</tspan>
+</text>
+    <text x="734" y="374" fill="#b8c6db" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="734" dy="0">Controller rule sets, rollback notes, and</tspan>
+<tspan x="734" dy="20">production sync timing stay visible before another</tspan>
+<tspan x="734" dy="20">door update.</tspan>
+</text>
+    
+    
+    <rect x="58" y="520" width="620" height="256" rx="22" fill="#0b1220" stroke="rgba(120,255,170,.18)" />
+    <text x="84" y="554" fill="#b88cff" font-size="11" font-weight="700" font-family="Consolas, monospace">
+<tspan x="84" dy="0">VENDOR LANE</tspan>
+</text>
+    <text x="84" y="604" fill="#f5f7ff" font-size="28" font-weight="700" font-family="Georgia, serif">
+<tspan x="84" dy="0">After-hours windows and work-</tspan>
+<tspan x="84" dy="35">order linkage</tspan>
+</text>
+    <text x="84" y="656" fill="#b8c6db" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="84" dy="0">Vendor access windows stay tied to Facilities</tspan>
+<tspan x="84" dy="20">Operations and close with the approved work order.</tspan>
+</text>
+    
+    
+    <rect x="708" y="520" width="634" height="256" rx="22" fill="#0b1220" stroke="rgba(120,255,170,.18)" />
+    <text x="734" y="554" fill="#37ff8b" font-size="11" font-weight="700" font-family="Consolas, monospace">
+<tspan x="734" dy="0">REVOCATION LANE</tspan>
+</text>
+    <text x="734" y="604" fill="#f5f7ff" font-size="28" font-weight="700" font-family="Georgia, serif">
+<tspan x="734" dy="0">Badge deactivation and</tspan>
+<tspan x="734" dy="35">incident evidence</tspan>
+</text>
+    <text x="734" y="656" fill="#b8c6db" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="734" dy="0">Security Operations keeps revocation timing and</tspan>
+<tspan x="734" dy="20">audit continuity explicit before review closure.</tspan>
+</text>
+    
+    
+    </svg>

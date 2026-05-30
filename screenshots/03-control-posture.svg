@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="860" viewBox="0 0 1400 860">
+    <rect width="1400" height="860" fill="#070a0f"/>
+    <rect x="24" y="24" width="1352" height="812" rx="30" fill="#0a1426" stroke="rgba(120,255,170,.18)"/>
+    <rect x="58" y="58" width="1284" height="152" rx="26" fill="#0b1220" stroke="rgba(120,255,170,.12)"/>
+    <text x="94" y="96" fill="#37ff8b" font-size="13" font-weight="700" font-family="Consolas, monospace">
+<tspan x="94" dy="0">CONTROL POSTURE</tspan>
+</text>
+    <text x="94" y="146" fill="#f5f7ff" font-size="34" font-weight="700" font-family="Georgia, serif">
+<tspan x="94" dy="0">Packet readiness, missing evidence,</tspan>
+<tspan x="94" dy="42">and review timing stay readable for</tspan>
+<tspan x="94" dy="42">property operators.</tspan>
+</text>
+    <text x="94" y="194" fill="#b8c6db" font-size="18" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="94" dy="0">The board keeps building access posture explicit instead of hiding it behind generic occupancy</tspan>
+<tspan x="94" dy="22">metrics.</tspan>
+</text>
+    
+    
+    <rect x="58" y="238" width="402" height="244" rx="22" fill="#0b1220" stroke="rgba(120,255,170,.18)" />
+    <text x="84" y="272" fill="#ff5c7a" font-size="11" font-weight="700" font-family="Consolas, monospace">
+<tspan x="84" dy="0">PACKET BALA-12</tspan>
+</text>
+    <text x="84" y="322" fill="#f5f7ff" font-size="28" font-weight="700" font-family="Georgia, serif">
+<tspan x="84" dy="0">Tenant badge approval packet</tspan>
+</text>
+    <text x="84" y="374" fill="#b8c6db" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="84" dy="0">59 percent complete. Final manager approval and</tspan>
+<tspan x="84" dy="20">effective-date proof are both still missing.</tspan>
+</text>
+    
+    
+    <rect x="498" y="238" width="402" height="244" rx="22" fill="#0b1220" stroke="rgba(120,255,170,.18)" />
+    <text x="524" y="272" fill="#ffcc66" font-size="11" font-weight="700" font-family="Consolas, monospace">
+<tspan x="524" dy="0">PACKET BALA-18</tspan>
+</text>
+    <text x="524" y="322" fill="#f5f7ff" font-size="28" font-weight="700" font-family="Georgia, serif">
+<tspan x="524" dy="0">Controller drift packet</tspan>
+</text>
+    <text x="524" y="374" fill="#b8c6db" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="524" dy="0">63 percent complete. One production controller</tspan>
+<tspan x="524" dy="20">still differs from the approved baseline.</tspan>
+</text>
+    
+    
+    <rect x="938" y="238" width="404" height="244" rx="22" fill="#0b1220" stroke="rgba(120,255,170,.18)" />
+    <text x="964" y="272" fill="#37ff8b" font-size="11" font-weight="700" font-family="Consolas, monospace">
+<tspan x="964" dy="0">PACKET BALA-27</tspan>
+</text>
+    <text x="964" y="322" fill="#f5f7ff" font-size="28" font-weight="700" font-family="Georgia, serif">
+<tspan x="964" dy="0">Revocation audit packet</tspan>
+</text>
+    <text x="964" y="374" fill="#b8c6db" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="964" dy="0">74 percent complete. The revoked badge still</tspan>
+<tspan x="964" dy="20">appears on one secondary controller and the audit</tspan>
+<tspan x="964" dy="20">trail is incomplete.</tspan>
+</text>
+    
+    
+    <rect x="58" y="514" width="1284" height="262" rx="22" fill="#0b1220" stroke="rgba(120,255,170,.18)" />
+    <text x="84" y="548" fill="#19c7ff" font-size="11" font-weight="700" font-family="Consolas, monospace">
+<tspan x="84" dy="0">WHY THIS MONETIZES CLEANLY</tspan>
+</text>
+    <text x="84" y="598" fill="#f5f7ff" font-size="28" font-weight="700" font-family="Georgia, serif">
+<tspan x="84" dy="0">Hosted preview planned, paid</tspan>
+<tspan x="84" dy="35">template pack later, embedded</tspan>
+<tspan x="84" dy="35">by engagement.</tspan>
+</text>
+    <text x="84" y="650" fill="#b8c6db" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="84" dy="0">This is a strong proptech wedge because it lives</tspan>
+<tspan x="84" dy="20">where teams actually feel pressure: badge</tspan>
+<tspan x="84" dy="20">approvals, controller drift, vendor windows,</tspan>
+<tspan x="84" dy="20">revocation timing, shared credentials, and named</tspan>
+<tspan x="84" dy="20">audit proof before trust returns.</tspan>
+</text>
+    
+    
+    </svg>
